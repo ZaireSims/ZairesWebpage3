@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+<p align="center"> 
+  Education
+  
+  <p align="center"> 
+Bachelor of Science: Computer Science
+    <p align="center">       
+Gpa: 3.01 
+    
+<p align="center"> 
+Course Highlights
+  
+* Cyber Security: Fundamentals, Principles and Apps.
+  
+* Software Engineering I; 
 
-You can use the [editor on GitHub](https://github.com/ZaireSims/ZairesWebpage3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+* Public Speaking;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZaireSims/ZairesWebpage3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p align="center"> 
+Employment History
+    
+<p align="center"> 
+Crew trainer <p align="right">                                 July 2015—Present 
+  
+  
+  <p align="center"> 
+Mcdonalds, Mount Laurel, NJ
+    
+* Perform cash and credit transactions to maintain the store’s equity while providing quality customer service and providing assistance when needed;
+* Utilized team working skills to achieve fast service for the customers.
+* Directing new employees on the tasks that need to be complete throughout each shift. Help employees with assignments if the employee does not understand the tasks that need to be completed.
+    
+<p align="center"> 
+Computer Skills
+      
+* Write, modify, and edit text using a word processing application.
+* Create and format simple spreadsheets.
+* Understand operating systems.
+* Have a fundamental understanding of programming principles and concepts.
+      
+<p align="center"> 
+Honors, Awards, and Achievements
+        
+* Secretary for the Rider Tech Club
+  
+<p align="center"> 
+Volunteer Experience
+  
+#### Teacher assistant                                                                                                                               
+#### June 2017
+#### Springville elementary school , Mount Laurel, NJ
+  
+* Provided help for the teachers if they needed assistance with technological problems. 
+Taught  children as well as the teachers how to use their new apple devices.
